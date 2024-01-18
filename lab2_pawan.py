@@ -18,7 +18,7 @@ Objective:
 # num * 10 - 3 to change new_num's value from 47 to 35.
 #---------------------------------------------------------
 num = 5
-new_num = num * 10 - 3 # Add parenthesis to make new_num to be 35
+new_num = num * (10 - 3 # Add parenthesis to make new_num to be 35
 print(f"Exercise 1's new_num is: {new_num}")
 
 
